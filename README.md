@@ -1,2 +1,0 @@
-# sublimetext_latex_instruction
-sublimetext latex instruction
