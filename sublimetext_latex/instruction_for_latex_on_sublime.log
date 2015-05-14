@@ -1,31 +1,31 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.9)  9 MAY 2015 12:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2015.5.14)  14 MAY 2015 10:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **instruction_for_latex_on_sublime
 (./instruction_for_latex_on_sublime.tex
-LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 78 languages loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
-Document Class: memoir 2013/05/30 v3.7b configurable book, report, article docu
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(c:/texlive/2014/texmf-dist/tex/latex/memoir/memoir.cls
+Document Class: memoir 2015/03/05 v3.7c configurable book, report, article docu
 ment class
 \onelineskip=\skip41
 \lxvchars=\skip42
 \xlvchars=\skip43
 \@memcnta=\count79
 \c@@memmarkcntra=\count80
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/ifetex/ifetex.sty
+(c:/texlive/2014/texmf-dist/tex/latex/ifetex/ifetex.sty
 Package: ifetex 2011/12/15 v1.2 ifetex
 
-(/usr/share/texlive/texmf-dist/tex/plain/ifetex/ifetex.tex))
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(c:/texlive/2014/texmf-dist/tex/plain/ifetex/ifetex.tex))
+(c:/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -34,11 +34,11 @@ Package ifluatex Info: LuaTeX not detected.
 \trimtop=\skip46
 \trimedge=\skip47
 
-(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
-Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+(c:/texlive/2014/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 2015/03/02 v2.1 eTeX basic definition package (PEB,DPC)
 \et@xins=\count81
 )
-(/usr/share/texlive/texmf-dist/tex/latex/memoir/mem10.clo
+(c:/texlive/2014/texmf-dist/tex/latex/memoir/mem10.clo
 File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
 )
 \binding=\skip48
@@ -191,8 +191,8 @@ File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
 \afterepigraphskip=\skip125
 \epigraphwidth=\skip126
 \epigraphrule=\skip127
-LaTeX Info: Redefining \em on input line 7492.
-LaTeX Info: Redefining \emph on input line 7500.
+LaTeX Info: Redefining \em on input line 7514.
+LaTeX Info: Redefining \emph on input line 7522.
 \tocentryskip=\skip128
 \tocbaseline=\skip129
 \cftparskip=\skip130
@@ -275,8 +275,8 @@ LaTeX Info: Redefining \emph on input line 7500.
 \FrameRule=\dimen145
 \FrameSep=\dimen146
 \c@cp@cntr=\count119
-LaTeX Info: Redefining \: on input line 11958.
-LaTeX Info: Redefining \! on input line 11960.
+LaTeX Info: Redefining \: on input line 11980.
+LaTeX Info: Redefining \! on input line 11982.
 \c@ism@mctr=\count120
 \c@xsm@mctr=\count121
 \c@csm@mctr=\count122
@@ -337,14 +337,14 @@ Package tocvsec2 [2008/07/23] emulated by memoir.
 Package verbatim [2008/07/23] emulated by memoir.
 Package verse [2008/07/23] emulated by memoir.
 
-(/usr/share/texlive/texmf-dist/tex/latex/memoir/mempatch.sty
+(c:/texlive/2014/texmf-dist/tex/latex/memoir/mempatch.sty
 Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/preprint/fullpage.sty
+(c:/texlive/2014/texmf-dist/tex/latex/preprint/fullpage.sty
 Package: fullpage 1999/02/23 1.1 (PWD)
 \FP@margin=\skip185
 )
-(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+(c:/texlive/2014/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enitkv@toks@=\toks22
 \labelindent=\skip186
@@ -383,19 +383,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Class memoir Warning: The material used in the headers is too large
 (12.0pt) for the given head height (0.0pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 71.
+(in both cases you will find help in the memoir manual). on input line 67.
 
 
 Overfull \vbox (12.0pt too high) has occurred while \output is active []
 
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+{c:/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 Class memoir Warning: The material used in the headers is too large
 (12.0pt) for the given head height (0.0pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 95.
+(in both cases you will find help in the memoir manual). on input line 115.
 
 
 Overfull \vbox (12.0pt too high) has occurred while \output is active []
@@ -403,19 +403,19 @@ Overfull \vbox (12.0pt too high) has occurred while \output is active []
  [2]
 (./instruction_for_latex_on_sublime.aux) ) 
 Here is how much of TeX's memory you used:
- 3902 strings out of 493304
- 53294 string characters out of 6139872
- 143840 words of memory out of 5000000
- 7403 multiletter control sequences out of 15000+600000
+ 3904 strings out of 493109
+ 53233 string characters out of 6138581
+ 144371 words of memory out of 5000000
+ 7411 multiletter control sequences out of 15000+600000
  7291 words of font info for 26 fonts, out of 8000000 for 9000
- 957 hyphenation exceptions out of 8191
- 24i,10n,20p,180b,385s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr7.pfb>
-Output written on instruction_for_latex_on_sublime.pdf (2 pages, 52147 bytes).
+ 1141 hyphenation exceptions out of 8191
+ 24i,10n,20p,202b,395s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2014/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmbx8.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pf
+b>
+Output written on instruction_for_latex_on_sublime.pdf (2 pages, 53475 bytes).
 PDF statistics:
  27 PDF objects out of 1000 (max. 8388607)
  18 compressed objects within 1 object stream
